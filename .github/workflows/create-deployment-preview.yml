@@ -18,3 +18,4 @@ jobs:
       with:
         action: create-deployment-preview
         deployment-name: basedeployment
+        workspace: clgzeowr9003r01qude83r68h
