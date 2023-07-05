@@ -18,4 +18,3 @@ jobs:
       with:
         action: create-deployment-preview
         deployment-id: cljptd9jm817514jbz31x6u0su5
-        workspace: clgzeowr9003r01qude83r68h
